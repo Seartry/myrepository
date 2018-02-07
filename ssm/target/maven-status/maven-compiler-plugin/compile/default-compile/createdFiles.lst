@@ -1,0 +1,6 @@
+cn\temptation\controller\UserController.class
+cn\temptation\model\User.class
+cn\temptation\service\UserServiceImpl.class
+cn\temptation\dao\UserMapper.class
+cn\temptation\controller\BaseController.class
+cn\temptation\service\UserService.class
